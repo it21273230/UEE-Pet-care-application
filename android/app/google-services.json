@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "226765294736",
+    "project_id": "ueeapp-4e0ca",
+    "storage_bucket": "ueeapp-4e0ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226765294736:android:c64c6df309579864fbdc15",
+        "android_client_info": {
+          "package_name": "com.example.petapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ26M9Ra0dsY3FgJXbVr_B4KlQ5kZFE8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
